@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="save">startActivity(new Intent(this, MainActivity3.class));</string>
+    <string name="aa"> Intent Main = new Intent(this, ToClass.class);
+    Main.putExtra("userurl", url);
+    startActivity(Main);</string>
+</resources>
